@@ -4,11 +4,11 @@
 Professora Carolina Zambelli -  MBA IMPACTA - Data science & Advanced analytics
 
 Integrantes
-Carlos Reis – RA: 2401937
-Natalia Reis – RA: 2401504
-Luigi Lago – RA: 2400428
-Gabriel Padula – RA: 2402305
-Julio Dyna – RA: 2402440
+Carlos Reis 
+Natalia Reis 
+Luigi Lago 
+Gabriel Padula 
+Julio Dyna 
 
 
 Imagine que você é um agente especial que possui a missão de interceptar mensagens secretas. Por meio da sua rede de informantes você descobre que tais mensagens estão sendo transmitidas por meio de uma frequência de rádio não utilizada em código morse.
